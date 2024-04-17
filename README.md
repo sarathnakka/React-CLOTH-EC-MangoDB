@@ -4,7 +4,4 @@ This application is a comprehensive e-commerce platform designed for purchasing 
 
 
 
-With this React E-Commerce Clothing application powered by MongoDB, businesses can effectively showcase their products, manage inventory, process orders, and provide a seamless shopping experience to their customers.
 
-#npm install
-#npm start
